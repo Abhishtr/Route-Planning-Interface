@@ -1,12 +1,3 @@
-/*
-Group  Project Topic - Route Planning System/Interface
-
-Group Members -
-1>Abhisht Rustagi - 2020A7PS1891H
-2>Akshit Rathi - 2020A7PS2045H
-3>Varad Asawa - 2020A7PS0217H
-*/
-
 #include<bits/stdc++.h>
 using namespace std;
 
